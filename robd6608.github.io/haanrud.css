@@ -1,0 +1,77 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+
+header {
+  padding: 5px;
+  display: block;
+  width: 1000px;
+  border-style: solid;
+  border-color: white;
+  margin-right: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.poop {
+  border-width: medium;
+  border-style: groove;
+  border-color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1 {
+  font-family: 'Andale Mono', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+}
+
+
+nav {
+  line-height:;
+  background-color:;
+  width:200px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: 9;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align: center;
+  padding: 5px;
+  display: block;
+}

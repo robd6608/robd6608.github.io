@@ -1,0 +1,131 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #00d8ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  border-width: 8px;
+  color: Black;
+  font-size: 50px;
+  border-color: black;
+  border-style: solid;
+font-family: 'Indie Flower', cursive;
+}
+
+nav {
+  /*
+  line-height:;
+  background-color:;
+  */
+  width:200px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  text-align: center;
+  width: 900px;
+  display: inline-block;
+  background-color: #00d8ff;
+  margin: 0;
+  padding: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+.asidel {
+  width: 150px;
+  display: inline-block;
+  vertical-align: left;
+  background-color:grey;
+  font-size: 15px;
+  border-width: 5px;
+  border-color: black;
+  min-height: 2000px;
+font-family: 'Indie Flower', cursive;
+  }
+
+aside ul {
+  list-style-type: none;
+  padding: 1px;
+  margin: 3;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+  width: ;
+  background-color:black;
+  text-align:center;
+  padding:5px;
+  display: block;
+  color: #00d8ff;
+}
+
+.picsize{
+  width: 400px;
+  height: 300px;
+margin: 10px;
+margin-left: auto;
+
+}
+
+.headrinfo{
+  background-color: black;
+  color: #00d8ff;
+  border: black;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+}
+
+
+
+.quicklinks{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.asider{
+  width: 150px;
+  display: inline-block;
+  vertical-align: right;
+  background-color:grey;
+  font-size: 15px;
+  border: ;
+  border-color: ;
+  margin-left: auto;
+  float: right;
+  min-height: 2000px;
+font-family: 'Indie Flower', cursive;
+}
+
+.news{
+  padding: 5px;
+  display: block;
+  border-width: 8px;
+  color: Black;
+  font-size: 50px;
+  border-color: black;
+  border-style: solid;
+}

@@ -1,0 +1,105 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: grey;
+}
+
+header {
+  color: white;
+  background-color: blue;
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  padding: 5px;
+  display: block;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+img {
+  margin-right: auto;
+  margin-left: auto;
+}
+nav {
+  line-height:;
+  background-color:;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: white;
+}
+
+section {
+  display: inline-block;
+  background-color: beige;
+  text-align: center;
+  font-family: sans-serif;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  margin-bottom: 0;
+}
+
+aside {
+  width: 15%;
+  display: inline-block;
+  vertical-align: top;
+  background-color: grey;
+}
+
+aside ul {
+  color: white;
+  font-size: 22px;
+  list-style-type: none;
+}
+
+aside li {
+  width: 100%;
+  display: block;
+  padding-right: 50px;
+  padding-top: 5px;
+}
+
+footer {
+  color: white;
+  background-color: blue;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 14px;
+  padding:5px;
+  display: block;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  margin-top: -3px;
+}
+
+.colorred {
+  color: red;
+  font-size: 30px;
+}
+
+.navigation {
+  float: left;
+}
+
+.rightside {
+  float: right;
+}
+
+.heroimage {
+  float: left;
+  width: 70%;
+}
